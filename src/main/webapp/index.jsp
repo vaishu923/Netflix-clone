@@ -21,7 +21,7 @@
         <a href="#" class="signin-btn">Sign In</a>
     </div>
     <div class="hero">
-        <h1>Unlimited movies, TV shows, and more.</h1>
+        <h1>Unlimited movies,dramas, TV shows, and more.</h1>
         <p>Watch anywhere. Cancel anytime.</p>
         <form>
             <input type="email" class="email-input" placeholder="Email address">
